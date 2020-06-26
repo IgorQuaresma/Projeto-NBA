@@ -10,3 +10,5 @@ Esse está sendo o meu primeiro projeto relacionado a data science. Portanto, a 
 
 Ao longo do notebook comentei a maioria das ações que realizei. Caso alguém tenha alguma sugestão de como melhorar o código, por favor, compartilhe comigo, isso auxiliará
 ainda mais no meu aprendizado.
+
+***Caso você não esteja acostumado com o github, você pode acessar o notebook do projeto selecionando o arquivo projeto_nba_versao2.ipynb
